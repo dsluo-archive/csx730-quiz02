@@ -52,7 +52,7 @@ sequence of instructions in your submission.
    long gcd(long a, long b); 
    ```
   
-   You are required to use recursion to solve this problem. That means that your `gcd`
+   **You are required to use recursion to solve this problem.** That means your `gcd`
    function must call itself.
   
    Feel free to add extra labels, as needed, to facilitate jumping. A useful instruction for
