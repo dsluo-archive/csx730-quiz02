@@ -12,7 +12,7 @@
    ```
 
 1. Change into the `csx730-quiz02` directory that was just created and look around. There should be a
-   couoke different files already present.
+   couple different files already present.
    
 ### Quiz Questions
 
