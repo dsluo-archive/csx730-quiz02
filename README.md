@@ -1,17 +1,9 @@
 # csx730-quiz02
 
-## Questions
-
-In your notes, clearly answer the following questions. These instructions assume that you are 
-logged into the Nike server. 
-
-**NOTE:** If a step requires you to enter in a command, please provide in your notes the full 
-command that you typed to make the related action happen. If context is necessary (e.g., the 
-command depends on your present working directory), then please note that context as well.
-
 ### Getting Started
 
-1. Form into small groups of two or three people. 
+1. Form into small groups of two or three people. These instructions assume that at least one group 
+   member is logged into the Nike. 
 
 1. Use Git to clone the repository for this exercise onto Nike into a subdirectory called `csx730-quiz02`:
 
