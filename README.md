@@ -25,7 +25,8 @@ command depends on your present working directory), then please note that contex
 ### Quiz Questions
 
 1. In `gcd.s` write a function called `gcd` that implements the following C function 
-   protoype, from scratch in `x86_64` assembly using AT&T syntax intended for the GNU Assembler:
+   protoype (also specified in `gcd.h`), from scratch in `x86_64` assembly using AT&T 
+   syntax intended for the GNU Assembler:
    
    ```c
    /** Returns the greatet common divisor (GCD) of two integers, @p a and @p b, using Euclid's 
