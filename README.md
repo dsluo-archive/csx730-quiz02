@@ -8,7 +8,7 @@
 1. Use Git to clone the repository for this exercise onto Nike into a subdirectory called `csx730-quiz02`:
 
    ```
-   $ git clone --depth 1 https://github.com/cs1730/csx730-quiz02.git
+   $ git clone https://github.com/cs1730/csx730-quiz02.git
    ```
 
 1. Change into the `csx730-quiz02` directory that was just created and look around. There should be a
