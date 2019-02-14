@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-1. Form into small groups of two or three people. These instructions assume that at least one group 
+1. Form into **small groups of two or three** people. These instructions assume that at least one group 
    member is logged into the Nike. 
 
 1. Use Git to clone the repository for this exercise onto Nike into a subdirectory called `csx730-quiz02`:
