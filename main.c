@@ -3,11 +3,7 @@
 
 void printGCD(long a, long b, long expected) {
   long g = gcd(a, b);
-  printf("gcd(%d, %d) = %d [expected %d]\n",
-         a,
-         b,
-         c,
-         expected);
+  printf("gcd(%d, %d) = %d [expected %d]\n", a, b, g, expected);
 } // printGCD
 
 int main() {

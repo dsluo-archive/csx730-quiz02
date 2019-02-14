@@ -24,7 +24,21 @@ command depends on your present working directory), then please note that contex
    
 ### Quiz Questions
 
-1. In `gcd.s` write a function called `gcd` that implements the following C function 
+1. Modify `SUBMISSION.md` to include the name and UGA ID number for each group member. Then,
+   sign the piece of paper that your instructor has at the front of the room.
+
+1. Create a `Makefile` with the following targets:
+   
+   | Target   | Dependencies      | Description |
+   |----------|-------------------|-------------|
+   | `main`   | `main.o`, `gcd.o` | Link to executable.
+   | `main.o` | `main.c`          | Compile and assemble into object file.
+   | `gcd.o`  | `gcd.s`           | Assemble into object file.
+   
+   When compiling `C` code, include the usual options specified by your instructor.
+   When assembling assembly, include the `-gstabs+` option.
+
+1. In `gcd.s`, modify `gcd` so that it implements the following C function 
    protoype (also specified in `gcd.h`), from scratch in `x86_64` assembly using AT&T 
    syntax intended for the GNU Assembler:
    
@@ -39,7 +53,19 @@ command depends on your present working directory), then please note that contex
    long gcd(long a, long b); 
    ```
    
-1. 
+   For each instruction of assembly, you must provide a comment in the source code describing 
+   what the instruction is doing and, when applicable, why.
+   
+1. Test your code. Test cases have already been provided in the `main.c` for your
+   convenience.
+
+1. **Before 3:15 PM**, double check that your group member names are listed in `SUBMISSION.md`
+   as well as the piece of paper that your instructor has at the front of the room, then
+   submit your quiz attempt using the `submit` command. From the parent directory:
+   
+   ```
+   $ submit csx730-quiz02 csx730
+   ```
    
 <hr/>
 
