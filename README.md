@@ -51,7 +51,10 @@ sequence of instructions in your submission.
      */
    long gcd(long a, long b); 
    ```
-   
+  
+   You are required to use recursion to solve this problem. That means that your `gcd`
+   function must call itself.
+  
    Feel free to add extra labels, as needed, to facilitate jumping. A useful instruction for
    performing comparisons is `cmp`. Also, you may find the `jz` and `jnz` instructions useful
    for jumping to labels when the result of the previous instruction zeroed out and did not
