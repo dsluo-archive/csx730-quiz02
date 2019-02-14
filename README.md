@@ -19,8 +19,8 @@
 This quiz is open book, open notes, and asking your instructor questions is allowed. You may
 find the assembly notes provided in recent lecture modules on eLC useful. If you use `gcc -S`
 as a last resort, you are still expected to fully document the assembly. Your instructor
-reserves the right to question you about the high-level functionality of a sequence of instructions
-in your submission.
+reserves the right to question you about the low-level and high-level functionality of a 
+sequence of instructions in your submission.
 
 1. Modify `SUBMISSION.md` to include the name, UGA ID number, course number (4730 or 6730) 
    for each group member. Then, sign the piece of paper that your instructor has at the front 
