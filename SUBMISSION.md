@@ -2,6 +2,7 @@
 
 ## Group Member Names
 
-* Name 810 4730
-* Name 810 6730
+* David Luo     811357331 4730
+* Devan Vitha   811055508 4730
+* David McMabb  811385088 4730
 
