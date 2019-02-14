@@ -24,6 +24,10 @@ command depends on your present working directory), then please note that contex
    
 ### Quiz Questions
 
+This quiz is open book, open notes, and asking your instructor questions is allowed. You may
+find the assembly notes provided in recent lecture modules on eLC useful. If you use `gcc -S`
+as a last resort, you are still expected to fully document the assembly. 
+
 1. Modify `SUBMISSION.md` to include the name and UGA ID number for each group member. Then,
    sign the piece of paper that your instructor has at the front of the room.
 
@@ -52,6 +56,11 @@ command depends on your present working directory), then please note that contex
      */
    long gcd(long a, long b); 
    ```
+   
+   Feel free to add extra labels, as needed, to facilitate jumping. A useful instruction for
+   performing comparisons is `cmp`. Also, you may find the `jz` and `jnz` instructions useful
+   for jumping to labels when the result of the previous instruction zeroed out and did not
+   zero out the destination register, respectively.
    
    For each instruction of assembly, you must provide a comment in the source code describing 
    what the instruction is doing and, when applicable, why.
